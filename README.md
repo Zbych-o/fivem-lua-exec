@@ -1,2 +1,10 @@
 # fivem-lua-exec
-Lua executor with dum functions
+Lua executor for $ 20, I give free crack
+
+Functions:
+
+dumper
+lua executor
+aimbot
+esp
+menus
